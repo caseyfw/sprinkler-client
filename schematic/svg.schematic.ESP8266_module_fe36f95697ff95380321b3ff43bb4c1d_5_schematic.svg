@@ -1,0 +1,1051 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1.0947925in" x="0in" version="1.2" y="0in" gorn="0"  height="1.286027in" viewBox="0 0 27.807729 32.665085" id="svg3698">
+    <metadata  id="metadata3790">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs3788">
+        <linearGradient  id="linearGradient4345">
+            <stop offset="0"  style="stop-color:#ffffff;stop-opacity:1;" id="stop4347"/>
+            <stop offset="1"  style="stop-color:#ffffff;stop-opacity:0;" id="stop4349"/>
+        </linearGradient>
+        <radialGradient fx="13.97" fy="10.173587" cx="13.97"  cy="10.173587" gradientTransform="matrix(0.85495466,0,0,1.4310096,0.63281017,-4.3767761)" href="#linearGradient4345" id="radialGradient4353" r="8.8900003" gradientUnits="userSpaceOnUse"/>
+    </defs>
+    <desc  id="desc3700">
+        <referenceFile  id="referenceFile3702">Barometric_Pressure_Sensor__2eaec138e035.svg</referenceFile>
+    </desc>
+    <g  transform="translate(0.20002995,7.2433624)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.3.0.0.0.0"  id="g13">
+                        <g gorn="0.3.0.0.0.0.0"  id="g15">
+                            <g gorn="0.3.0.0.0.0.0.0"  id="g17">
+                                <g gorn="0.3.0.0.0.0.0.0.0"  id="g19">
+                                    <g gorn="0.3.0.0.0.0.0.0.0.0"  id="g21">
+                                        <g gorn="0.3.0.0.0.0.0.0.0.0.0"  id="g23">
+                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.0"  id="layer2">
+                                                <rect width="14.860738" x="5.1461592" y="-2.3286443" class="interior rect" fill="url(#radialGradient4353)" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0"  height="25.020735" stroke="#000000" style="stroke-linecap:round" fill-opacity="1" id="rect3705" stroke-width="0.37926257"/>
+                                                <g  transform="translate(-0.90540345,17.852686)">
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0"  id="g27">
+                                                                    <g gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"  id="g29">
+                                                                        <g gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0"  id="g31">
+                                                                            <g gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0"  id="g33">
+                                                                                <g gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0"  id="g35">
+                                                                                    <g gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0"  id="g37">
+                                                                                        <g gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0"  id="g39">
+                                                                                            <g class="text" fill="#000000" gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:middle;font-family:Droid Sans" id="label" font-size="0.0337027">
+                                                                                                <g gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.41111112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5374-5">
+                                                                                                    <text x="13.406987" y="-14.716858" gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan3492">ESP-12</text>
+                                                                                                    <text x="13.406987" y="-11.18908" gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.1"  id="tspan3496">ESP8266</text>
+                                                                                                    <text x="13.406987" y="-4.1335244" gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.2"  id="tspan3504">Wifi</text>
+                                                                                                    <text x="13.406987" y="-2.3696353" gorn="0.3.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.3"  id="tspan3506">Module</text>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <line class="pin" fill="none" gorn="0.4"  stroke="#787878" style="stroke-linecap:round" id="connector6pin" y1="30.244898" y2="32.581123" x1="12.827" stroke-width="0.20541632" x2="12.827"/>
+    <rect width="0.00033763057" x="12.86529" y="32.661339" fill="none" gorn="0.5"  height="0.0050857384" stroke="none" id="connector6terminal"/>
+    <rect width="0.246944" x="5.7833209" y="25.399973" class="terminal" fill="none" gorn="0.6"  height="0.246944" stroke="none" id="rect65"/>
+    <line class="pin" fill="none" gorn="0.7"  stroke="#787878" style="stroke-linecap:round" id="connector1pin" y1="2.2848446" y2="4.6253238" x1="12.827001" stroke-width="0.20403935" x2="12.827001"/>
+    <rect width="0.00034282618" x="12.685068" y="2.2403569" fill="none" gorn="0.8"  height="0.0052381861" stroke="none" id="connector1terminal"/>
+    <rect width="0.00034282601" x="12.68503" y="2.2403526" fill="none" gorn="0.9"  height="0.0052381898" stroke="none" id="rect69"/>
+    <rect width="0.246944" x="6.0129948" y="-2.6757814e-08" class="terminal" fill="none" gorn="0.10"  height="0.246944" stroke="none" id="rect116"/>
+    <line class="pin" fill="none" gorn="0.11"  stroke="#787878" style="stroke-linecap:round" id="connector11pin" y1="24.924549" y2="24.924549" x1="20.496437" stroke-width="0.2410727" x2="25.337744"/>
+    <rect width="0.010164757" x="25.453197" y="25.019802" fill="none" gorn="0.12"  height="0.00048214541" stroke="none" id="connector11terminal"/>
+    <rect width="0.0101648" x="25.45323" y="25.019762" fill="none" gorn="0.13"  height="0.000482145" stroke="none" id="connector18terminal"/>
+    <rect width="0.010653885" x="27.797073" y="27.449219" fill="none" gorn="0.14"  height="0.00049388799" stroke="none" id="connector7terminal-1"/>
+    <rect width="0.246944" x="25.001316" y="26.180817" class="terminal" fill="none" gorn="0.15"  height="0.246944" stroke="none" id="rect39-8"/>
+    <line class="pin" fill="none" gorn="0.16"  stroke="#787878" style="stroke-linecap:round" id="connector13pin" y1="19.844549" y2="19.844549" x1="20.496437" stroke-width="0.2410727" x2="25.337744"/>
+    <rect width="0.010164757" x="25.453197" y="19.939802" fill="none" gorn="0.17"  height="0.00048214541" stroke="none" id="connector13terminal"/>
+    <rect width="0.0101648" x="25.45323" y="19.939762" fill="none" gorn="0.18"  height="0.000482145" stroke="none" id="connector19terminal"/>
+    <rect width="0.010653885" x="24.94207" y="24.279327" fill="none" gorn="0.19"  height="0.00049388799" stroke="none" id="connector7terminal-1-3"/>
+    <rect width="0.246944" x="24.70578" y="22.912485" class="terminal" fill="none" gorn="0.20"  height="0.246944" stroke="none" id="rect39-8-7"/>
+    <line class="pin" fill="none" gorn="0.21"  stroke="#787878" style="stroke-linecap:round" id="connector14pin" y1="17.304548" y2="17.304548" x1="20.496437" stroke-width="0.2410727" x2="25.337744"/>
+    <rect width="0.010164757" x="25.453197" y="17.399801" fill="none" gorn="0.22"  height="0.00048214541" stroke="none" id="connector14terminal"/>
+    <rect width="0.0101648" x="25.45323" y="17.399761" fill="none" gorn="0.23"  height="0.000482145" stroke="none" id="connector20terminal"/>
+    <rect width="0.010653885" x="25.784206" y="21.293566" fill="none" gorn="0.24"  height="0.00049388799" stroke="none" id="connector7terminal-1-4"/>
+    <rect width="0.246944" x="25.547916" y="19.926725" class="terminal" fill="none" gorn="0.25"  height="0.246944" stroke="none" id="rect39-8-2"/>
+    <line class="pin" fill="none" gorn="0.26"  stroke="#787878" style="stroke-linecap:round" id="connector15pin" y1="14.764548" y2="14.764548" x1="20.496437" stroke-width="0.2410727" x2="25.337744"/>
+    <rect width="0.010164757" x="25.453197" y="14.859802" fill="none" gorn="0.27"  height="0.00048214541" stroke="none" id="connector15terminal"/>
+    <rect width="0.0101648" x="25.45323" y="14.859802" fill="none" gorn="0.28"  height="0.000482145" stroke="none" id="connector21terminal"/>
+    <rect width="0.010653885" x="25.018627" y="18.384365" fill="none" gorn="0.29"  height="0.00049388799" stroke="none" id="connector7terminal-1-7"/>
+    <rect width="0.246944" x="24.782337" y="17.017523" class="terminal" fill="none" gorn="0.30"  height="0.246944" stroke="none" id="rect39-8-21"/>
+    <line class="pin" fill="none" gorn="0.31"  stroke="#787878" style="stroke-linecap:round" id="connector8pin" y1="12.224548" y2="12.224548" x1="20.499344" stroke-width="0.2410727" x2="25.340651"/>
+    <rect width="0.010164759" x="25.456104" y="12.322739" fill="none" gorn="0.32"  height="0.00048214541" stroke="none" id="connector8terminal"/>
+    <rect width="0.0101648" x="25.456129" y="12.322742" fill="none" gorn="0.33"  height="0.000482145" stroke="none" id="connector24terminal"/>
+    <rect width="0.010653885" x="25.477974" y="15.398604" fill="none" gorn="0.34"  height="0.00049388799" stroke="none" id="connector7terminal-1-6"/>
+    <rect width="0.246944" x="25.241684" y="14.031762" class="terminal" fill="none" gorn="0.35"  height="0.246944" stroke="none" id="rect39-8-0"/>
+    <line class="pin" fill="none" gorn="0.36"  stroke="#787878" style="stroke-linecap:round" id="connector10pin" y1="9.6780844" y2="9.6780844" x1="20.499344" stroke-width="0.24745195" x2="25.340651"/>
+    <rect width="0.010164759" x="25.456104" y="9.7827387" fill="none" gorn="0.37"  height="0.00048214541" stroke="none" id="connector10terminal"/>
+    <rect width="0.0101648" x="25.456129" y="9.7827425" fill="none" gorn="0.38"  height="0.000482145" stroke="none" id="connector23terminal"/>
+    <rect width="0.010653885" x="25.477976" y="12.872192" fill="none" gorn="0.39"  height="0.00049388799" stroke="none" id="connector7terminal-1-9"/>
+    <rect width="0.246944" x="25.241686" y="11.50535" class="terminal" fill="none" gorn="0.40"  height="0.246944" stroke="none" id="rect39-8-4"/>
+    <line class="pin" fill="none" gorn="0.41"  stroke="#787878" style="stroke-linecap:round" id="connector9pin" y1="7.1075048" y2="7.109992" x1="20.504042" stroke-width="0.25151324" x2="25.330139"/>
+    <rect width="0.010159225" x="25.451817" y="7.2362723" fill="none" gorn="0.42"  height="0.000512684" stroke="none" id="connector9terminal"/>
+    <rect width="0.0101592" x="25.45183" y="7.2362723" fill="none" gorn="0.43"  height="0.000512684" stroke="none" id="connector22terminal"/>
+    <rect width="0.010653885" x="25.095184" y="9.8098745" fill="none" gorn="0.44"  height="0.00049388799" stroke="none" id="connector7terminal-1-99"/>
+    <rect width="0.246944" x="24.858894" y="8.4430323" class="terminal" fill="none" gorn="0.45"  height="0.246944" stroke="none" id="rect39-8-48"/>
+    <g  transform="translate(0.12600566,1.0503663)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.46.0.0.0.0"  id="g107">
+                        <g gorn="0.46.0.0.0.0.0"  id="g109">
+                            <g gorn="0.46.0.0.0.0.0.0"  id="g111">
+                                <g gorn="0.46.0.0.0.0.0.0.0"  id="g113">
+                                    <g gorn="0.46.0.0.0.0.0.0.0.0"  id="g115">
+                                        <g gorn="0.46.0.0.0.0.0.0.0.0.0"  id="g117">
+                                            <g gorn="0.46.0.0.0.0.0.0.0.0.0.0"  id="g119">
+                                                <g class="text" fill="#8c8c8c" gorn="0.46.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;font-family:Droid Sans" id="text3728" font-size="0.027755">
+                                                    <text x="5.6444445" y="9.1016674" gorn="0.46.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px" id="tspan5352-75">TXD</text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.05843356,-1.153718)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.47.0.0.0.0"  id="g123">
+                        <g gorn="0.47.0.0.0.0.0"  id="g125">
+                            <g gorn="0.47.0.0.0.0.0.0"  id="g127">
+                                <g gorn="0.47.0.0.0.0.0.0.0"  id="g129">
+                                    <g gorn="0.47.0.0.0.0.0.0.0.0"  id="g131">
+                                        <g gorn="0.47.0.0.0.0.0.0.0.0.0"  id="g133">
+                                            <g gorn="0.47.0.0.0.0.0.0.0.0.0.0"  id="g135">
+                                                <g class="text" fill="#8c8c8c" gorn="0.47.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8" font-size="0.027755">
+                                                    <g gorn="0.47.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7">
+                                                        <text x="5.6444445" y="8.6709442" gorn="0.47.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5147">CH_PD</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.01081132,3.590366)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.48.0.0.0.0"  id="g140">
+                        <g gorn="0.48.0.0.0.0.0"  id="g142">
+                            <g gorn="0.48.0.0.0.0.0.0"  id="g144">
+                                <g gorn="0.48.0.0.0.0.0.0.0"  id="g146">
+                                    <g gorn="0.48.0.0.0.0.0.0.0.0"  id="g148">
+                                        <g gorn="0.48.0.0.0.0.0.0.0.0.0"  id="g150">
+                                            <g gorn="0.48.0.0.0.0.0.0.0.0.0.0"  id="g152">
+                                                <g class="text" fill="#8c8c8c" gorn="0.48.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0" font-size="0.027755">
+                                                    <g gorn="0.48.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.48.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5187">RXD</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.05843356,8.5735121)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.49.0.0.0.0"  id="g157">
+                        <g gorn="0.49.0.0.0.0.0"  id="g159">
+                            <g gorn="0.49.0.0.0.0.0.0"  id="g161">
+                                <g gorn="0.49.0.0.0.0.0.0.0"  id="g163">
+                                    <g gorn="0.49.0.0.0.0.0.0.0.0"  id="g165">
+                                        <g gorn="0.49.0.0.0.0.0.0.0.0.0"  id="g167">
+                                            <g gorn="0.49.0.0.0.0.0.0.0.0.0.0"  id="g169">
+                                                <g class="text" fill="#8c8c8c" gorn="0.49.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5" font-size="0.027755">
+                                                    <g gorn="0.49.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.49.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5210">GPIO_0</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.05843356,11.341414)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.50.0.0.0.0"  id="g174">
+                        <g gorn="0.50.0.0.0.0.0"  id="g176">
+                            <g gorn="0.50.0.0.0.0.0.0"  id="g178">
+                                <g gorn="0.50.0.0.0.0.0.0.0"  id="g180">
+                                    <g gorn="0.50.0.0.0.0.0.0.0.0"  id="g182">
+                                        <g gorn="0.50.0.0.0.0.0.0.0.0.0"  id="g184">
+                                            <g gorn="0.50.0.0.0.0.0.0.0.0.0.0"  id="g186">
+                                                <g class="text" fill="#8c8c8c" gorn="0.50.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5-5" font-size="0.027755">
+                                                    <g gorn="0.50.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2-7">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.50.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5273">GPIO_2</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.01081132,16.290687)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.51.0.0.0.0"  id="g191">
+                        <g gorn="0.51.0.0.0.0.0"  id="g193">
+                            <g gorn="0.51.0.0.0.0.0.0"  id="g195">
+                                <g gorn="0.51.0.0.0.0.0.0.0"  id="g197">
+                                    <g gorn="0.51.0.0.0.0.0.0.0.0"  id="g199">
+                                        <g gorn="0.51.0.0.0.0.0.0.0.0.0"  id="g201">
+                                            <g gorn="0.51.0.0.0.0.0.0.0.0.0.0"  id="g203">
+                                                <g class="text" fill="#8c8c8c" gorn="0.51.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5-1" font-size="0.027755">
+                                                    <g gorn="0.51.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2-74">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.51.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5296">REST</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.05843356,18.733511)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.52.0.0.0.0"  id="g208">
+                        <g gorn="0.52.0.0.0.0.0"  id="g210">
+                            <g gorn="0.52.0.0.0.0.0.0"  id="g212">
+                                <g gorn="0.52.0.0.0.0.0.0.0"  id="g214">
+                                    <g gorn="0.52.0.0.0.0.0.0.0.0"  id="g216">
+                                        <g gorn="0.52.0.0.0.0.0.0.0.0.0"  id="g218">
+                                            <g gorn="0.52.0.0.0.0.0.0.0.0.0.0"  id="g220">
+                                                <g class="text" fill="#8c8c8c" gorn="0.52.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5-5-8" font-size="0.027755">
+                                                    <g gorn="0.52.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2-7-0">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.52.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5319">GPIO_16</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(6.0143212,-1.8528361)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.53.0.0.0.0"  id="g225">
+                        <g gorn="0.53.0.0.0.0.0"  id="g227">
+                            <g gorn="0.53.0.0.0.0.0.0"  id="g229">
+                                <g gorn="0.53.0.0.0.0.0.0.0"  id="g231">
+                                    <g gorn="0.53.0.0.0.0.0.0.0.0"  id="g233">
+                                        <g gorn="0.53.0.0.0.0.0.0.0.0.0"  id="g235">
+                                            <g gorn="0.53.0.0.0.0.0.0.0.0.0.0"  id="g237">
+                                                <g class="text" fill="#8c8c8c" gorn="0.53.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-5" font-size="0.027755">
+                                                    <g  transform="matrix(0,-0.99999993,1.0000001,0,0,0)">
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g gorn="0.53.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g240">
+                                                                        <g gorn="0.53.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g242">
+                                                                            <g gorn="0.53.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g244">
+                                                                                <g gorn="0.53.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g246">
+                                                                                    <g gorn="0.53.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g248">
+                                                                                        <g gorn="0.53.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g250">
+                                                                                            <g gorn="0.53.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g252">
+                                                                                                <g gorn="0.53.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-2">
+                                                                                                    <text x="-9.7558308" y="7.2401109" gorn="0.53.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5342">VCC</text>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(6.0960989,19.670366)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.54.0.0.0.0"  id="g256">
+                        <g gorn="0.54.0.0.0.0.0"  id="g258">
+                            <g gorn="0.54.0.0.0.0.0.0"  id="g260">
+                                <g gorn="0.54.0.0.0.0.0.0.0"  id="g262">
+                                    <g gorn="0.54.0.0.0.0.0.0.0.0"  id="g264">
+                                        <g gorn="0.54.0.0.0.0.0.0.0.0.0"  id="g266">
+                                            <g gorn="0.54.0.0.0.0.0.0.0.0.0.0"  id="g268">
+                                                <g class="text" fill="#8c8c8c" gorn="0.54.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-5-7" font-size="0.027755">
+                                                    <g  transform="matrix(0,-0.99999993,1.0000001,0,0,0)">
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g gorn="0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g271">
+                                                                        <g gorn="0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g273">
+                                                                            <g gorn="0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g275">
+                                                                                <g gorn="0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g277">
+                                                                                    <g gorn="0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g279">
+                                                                                        <g gorn="0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g281">
+                                                                                            <g gorn="0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g283">
+                                                                                                <g gorn="0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-2-5">
+                                                                                                    <text x="-9.7558308" y="7.2401109" gorn="0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5365">GND</text>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(9.8134405,-1.4915616)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.55.0.0.0.0"  id="g287">
+                        <g gorn="0.55.0.0.0.0.0"  id="g289">
+                            <g gorn="0.55.0.0.0.0.0.0"  id="g291">
+                                <g gorn="0.55.0.0.0.0.0.0.0"  id="g293">
+                                    <g gorn="0.55.0.0.0.0.0.0.0.0"  id="g295">
+                                        <g gorn="0.55.0.0.0.0.0.0.0.0.0"  id="g297">
+                                            <g gorn="0.55.0.0.0.0.0.0.0.0.0.0"  id="g299">
+                                                <g class="text" fill="#8c8c8c" gorn="0.55.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5-0" font-size="0.027755">
+                                                    <g gorn="0.55.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2-6">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.55.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5388">GPIO_4</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(9.8604195,1.0548899)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.56.0.0.0.0"  id="g304">
+                        <g gorn="0.56.0.0.0.0.0"  id="g306">
+                            <g gorn="0.56.0.0.0.0.0.0"  id="g308">
+                                <g gorn="0.56.0.0.0.0.0.0.0"  id="g310">
+                                    <g gorn="0.56.0.0.0.0.0.0.0.0"  id="g312">
+                                        <g gorn="0.56.0.0.0.0.0.0.0.0.0"  id="g314">
+                                            <g gorn="0.56.0.0.0.0.0.0.0.0.0.0"  id="g316">
+                                                <g class="text" fill="#8c8c8c" gorn="0.56.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5-0-3" font-size="0.027755">
+                                                    <g gorn="0.56.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2-6-2">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.56.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5411">GPIO_5</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(9.1345015,3.5948897)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.57.0.0.0.0"  id="g321">
+                        <g gorn="0.57.0.0.0.0.0"  id="g323">
+                            <g gorn="0.57.0.0.0.0.0.0"  id="g325">
+                                <g gorn="0.57.0.0.0.0.0.0.0"  id="g327">
+                                    <g gorn="0.57.0.0.0.0.0.0.0.0"  id="g329">
+                                        <g gorn="0.57.0.0.0.0.0.0.0.0.0"  id="g331">
+                                            <g gorn="0.57.0.0.0.0.0.0.0.0.0.0"  id="g333">
+                                                <g class="text" fill="#8c8c8c" gorn="0.57.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5-0-3-9" font-size="0.027755">
+                                                    <g gorn="0.57.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2-6-2-2">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.57.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5434">GPIO_15</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(9.1396494,6.1319537)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.58.0.0.0.0"  id="g338">
+                        <g gorn="0.58.0.0.0.0.0"  id="g340">
+                            <g gorn="0.58.0.0.0.0.0.0"  id="g342">
+                                <g gorn="0.58.0.0.0.0.0.0.0"  id="g344">
+                                    <g gorn="0.58.0.0.0.0.0.0.0.0"  id="g346">
+                                        <g gorn="0.58.0.0.0.0.0.0.0.0.0"  id="g348">
+                                            <g gorn="0.58.0.0.0.0.0.0.0.0.0.0"  id="g350">
+                                                <g class="text" fill="#8c8c8c" gorn="0.58.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5-0-3-6" font-size="0.027755">
+                                                    <g gorn="0.58.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2-6-2-4">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.58.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5496">GPIO_13</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(9.1383624,8.6719532)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.59.0.0.0.0"  id="g355">
+                        <g gorn="0.59.0.0.0.0.0"  id="g357">
+                            <g gorn="0.59.0.0.0.0.0.0"  id="g359">
+                                <g gorn="0.59.0.0.0.0.0.0.0"  id="g361">
+                                    <g gorn="0.59.0.0.0.0.0.0.0.0"  id="g363">
+                                        <g gorn="0.59.0.0.0.0.0.0.0.0.0"  id="g365">
+                                            <g gorn="0.59.0.0.0.0.0.0.0.0.0.0"  id="g367">
+                                                <g class="text" fill="#8c8c8c" gorn="0.59.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5-0-3-9-2" font-size="0.027755">
+                                                    <g gorn="0.59.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2-6-2-2-1">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.59.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5519">GPIO_12</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(9.0875225,11.211953)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.60.0.0.0.0"  id="g372">
+                        <g gorn="0.60.0.0.0.0.0"  id="g374">
+                            <g gorn="0.60.0.0.0.0.0.0"  id="g376">
+                                <g gorn="0.60.0.0.0.0.0.0.0"  id="g378">
+                                    <g gorn="0.60.0.0.0.0.0.0.0.0"  id="g380">
+                                        <g gorn="0.60.0.0.0.0.0.0.0.0.0"  id="g382">
+                                            <g gorn="0.60.0.0.0.0.0.0.0.0.0.0"  id="g384">
+                                                <g class="text" fill="#8c8c8c" gorn="0.60.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5-0-3-6-1" font-size="0.027755">
+                                                    <g gorn="0.60.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2-6-2-4-2">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.60.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5542">GPIO_14</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(11.679074,16.389128)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.61.0.0.0.0"  id="g389">
+                        <g gorn="0.61.0.0.0.0.0"  id="g391">
+                            <g gorn="0.61.0.0.0.0.0.0"  id="g393">
+                                <g gorn="0.61.0.0.0.0.0.0.0"  id="g395">
+                                    <g gorn="0.61.0.0.0.0.0.0.0.0"  id="g397">
+                                        <g gorn="0.61.0.0.0.0.0.0.0.0.0"  id="g399">
+                                            <g gorn="0.61.0.0.0.0.0.0.0.0.0.0"  id="g401">
+                                                <g class="text" fill="#8c8c8c" gorn="0.61.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-0-5-0-3-9-2-0" font-size="0.027755">
+                                                    <g gorn="0.61.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-0-2-6-2-2-1-5">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.61.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5565">ADC</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(0,-0.99999993,1.0000001,0,5.3814437,37.288653)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.62.0.0.0.0"  id="g406">
+                        <g gorn="0.62.0.0.0.0.0"  id="g408">
+                            <g gorn="0.62.0.0.0.0.0.0"  id="g410">
+                                <g gorn="0.62.0.0.0.0.0.0.0"  id="g412">
+                                    <g gorn="0.62.0.0.0.0.0.0.0.0"  id="g414">
+                                        <g gorn="0.62.0.0.0.0.0.0.0.0.0"  id="g416">
+                                            <g gorn="0.62.0.0.0.0.0.0.0.0.0.0"  id="g418">
+                                                <g class="text" fill="#8c8c8c" gorn="0.62.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-1-9" font-size="0.027755">
+                                                    <g gorn="0.62.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-5-0">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.62.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5739">9</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(0,-0.99999993,1.0000001,0,5.2283276,9.7277897)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.63.0.0.0.0"  id="g423">
+                        <g gorn="0.63.0.0.0.0.0"  id="g425">
+                            <g gorn="0.63.0.0.0.0.0.0"  id="g427">
+                                <g gorn="0.63.0.0.0.0.0.0.0"  id="g429">
+                                    <g gorn="0.63.0.0.0.0.0.0.0.0"  id="g431">
+                                        <g gorn="0.63.0.0.0.0.0.0.0.0.0"  id="g433">
+                                            <g gorn="0.63.0.0.0.0.0.0.0.0.0.0"  id="g435">
+                                                <g class="text" fill="#8c8c8c" gorn="0.63.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-1-5" font-size="0.027755">
+                                                    <g gorn="0.63.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-5-1">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.63.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5741">8</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(14.955922,-1.9921504)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.64.0.0.0.0"  id="g440">
+                        <g  transform="translate(0,-0.35243271)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <g gorn="0.64.0.0.0.0.0.0.0.0.0"  id="g442">
+                                            <g gorn="0.64.0.0.0.0.0.0.0.0.0.0"  id="g444">
+                                                <g gorn="0.64.0.0.0.0.0.0.0.0.0.0.0"  id="g446">
+                                                    <g gorn="0.64.0.0.0.0.0.0.0.0.0.0.0.0"  id="g448">
+                                                        <g gorn="0.64.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g450">
+                                                            <g gorn="0.64.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="g452">
+                                                                <g class="text" fill="#8c8c8c" gorn="0.64.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-3-1" font-size="0.027755">
+                                                                    <g gorn="0.64.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-4-4">
+                                                                        <text x="5.6444445" y="9.1016674" gorn="0.64.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5834">14</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(14.955922,0.18254608)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.65.0.0.0.0"  id="g457">
+                        <g gorn="0.65.0.0.0.0.0"  id="g459">
+                            <g gorn="0.65.0.0.0.0.0.0"  id="g461">
+                                <g gorn="0.65.0.0.0.0.0.0.0"  id="g463">
+                                    <g gorn="0.65.0.0.0.0.0.0.0.0"  id="g465">
+                                        <g gorn="0.65.0.0.0.0.0.0.0.0.0"  id="g467">
+                                            <g gorn="0.65.0.0.0.0.0.0.0.0.0.0"  id="g469">
+                                                <g class="text" fill="#8c8c8c" gorn="0.65.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-3-2" font-size="0.027755">
+                                                    <g gorn="0.65.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-4-8">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.65.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5836">13</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(14.955922,2.7225462)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.66.0.0.0.0"  id="g474">
+                        <g gorn="0.66.0.0.0.0.0"  id="g476">
+                            <g gorn="0.66.0.0.0.0.0.0"  id="g478">
+                                <g gorn="0.66.0.0.0.0.0.0.0"  id="g480">
+                                    <g gorn="0.66.0.0.0.0.0.0.0.0"  id="g482">
+                                        <g gorn="0.66.0.0.0.0.0.0.0.0.0"  id="g484">
+                                            <g gorn="0.66.0.0.0.0.0.0.0.0.0.0"  id="g486">
+                                                <g class="text" fill="#8c8c8c" gorn="0.66.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-3-4" font-size="0.027755">
+                                                    <g gorn="0.66.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-4-0">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.66.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5838">10</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(15.012554,5.2754171)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.67.0.0.0.0"  id="g491">
+                        <g gorn="0.67.0.0.0.0.0"  id="g493">
+                            <g gorn="0.67.0.0.0.0.0.0"  id="g495">
+                                <g gorn="0.67.0.0.0.0.0.0.0"  id="g497">
+                                    <g gorn="0.67.0.0.0.0.0.0.0.0"  id="g499">
+                                        <g gorn="0.67.0.0.0.0.0.0.0.0.0"  id="g501">
+                                            <g gorn="0.67.0.0.0.0.0.0.0.0.0.0"  id="g503">
+                                                <g class="text" fill="#8c8c8c" gorn="0.67.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-3-8" font-size="0.027755">
+                                                    <g gorn="0.67.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-4-1">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.67.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5840">7</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(14.997753,7.8025463)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.68.0.0.0.0"  id="g508">
+                        <g gorn="0.68.0.0.0.0.0"  id="g510">
+                            <g gorn="0.68.0.0.0.0.0.0"  id="g512">
+                                <g gorn="0.68.0.0.0.0.0.0.0"  id="g514">
+                                    <g gorn="0.68.0.0.0.0.0.0.0.0"  id="g516">
+                                        <g gorn="0.68.0.0.0.0.0.0.0.0.0"  id="g518">
+                                            <g gorn="0.68.0.0.0.0.0.0.0.0.0.0"  id="g520">
+                                                <g class="text" fill="#8c8c8c" gorn="0.68.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-3-5" font-size="0.027755">
+                                                    <g gorn="0.68.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-4-02">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.68.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5842">6</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(14.986169,10.342546)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.69.0.0.0.0"  id="g525">
+                        <g gorn="0.69.0.0.0.0.0"  id="g527">
+                            <g gorn="0.69.0.0.0.0.0.0"  id="g529">
+                                <g gorn="0.69.0.0.0.0.0.0.0"  id="g531">
+                                    <g gorn="0.69.0.0.0.0.0.0.0.0"  id="g533">
+                                        <g gorn="0.69.0.0.0.0.0.0.0.0.0"  id="g535">
+                                            <g gorn="0.69.0.0.0.0.0.0.0.0.0.0"  id="g537">
+                                                <g class="text" fill="#8c8c8c" gorn="0.69.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-3-17" font-size="0.027755">
+                                                    <g gorn="0.69.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-4-48">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.69.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5844">5</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(15.008693,15.435417)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.70.0.0.0.0"  id="g542">
+                        <g gorn="0.70.0.0.0.0.0"  id="g544">
+                            <g gorn="0.70.0.0.0.0.0.0"  id="g546">
+                                <g gorn="0.70.0.0.0.0.0.0.0"  id="g548">
+                                    <g gorn="0.70.0.0.0.0.0.0.0.0"  id="g550">
+                                        <g gorn="0.70.0.0.0.0.0.0.0.0.0"  id="g552">
+                                            <g gorn="0.70.0.0.0.0.0.0.0.0.0.0"  id="g554">
+                                                <g class="text" fill="#8c8c8c" gorn="0.70.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-3-49" font-size="0.027755">
+                                                    <g gorn="0.70.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-4-2">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.70.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan3479">2</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <line class="pin" fill="none" gorn="0.71"  stroke="#787878" style="stroke-linecap:round" id="connector2pin" y1="17.301601" y2="17.301601" x1="0.19414495" stroke-width="0.24107265" x2="5.0354519"/>
+    <rect width="0.01016476" x="0.070285611" y="17.301361" fill="none" gorn="0.72"  height="0.00048214529" stroke="none" id="connector2terminal"/>
+    <line class="pin" fill="none" gorn="0.73"  stroke="#787878" style="stroke-linecap:round" id="connector4pin" y1="19.841612" y2="19.841612" x1="0.11774734" stroke-width="0.24115223" x2="4.9622512"/>
+    <rect width="0.010653889" x="-0.0035684004" y="20.069258" fill="none" gorn="0.74"  height="0.00049388799" stroke="none" id="connector4terminal"/>
+    <line class="pin" fill="none" gorn="0.75"  stroke="#787878" style="stroke-linecap:round" id="connector12pin" y1="27.455137" y2="27.455137" x1="0.19414496" stroke-width="0.24745193" x2="5.0354519"/>
+    <rect width="0.01016476" x="0.070285626" y="27.461361" fill="none" gorn="0.76"  height="0.00048214529" stroke="none" id="connector12terminal"/>
+    <rect width="0.0101648" x="0.070285954" y="27.461363" fill="none" gorn="0.77"  height="0.000482145" stroke="none" id="connector3terminal"/>
+    <rect width="0.246944" x="4.4562211" y="26.120256" class="terminal" fill="none" gorn="0.78"  height="0.246944" stroke="none" id="rect24"/>
+    <line class="pin" fill="none" gorn="0.79"  stroke="#787878" style="stroke-linecap:round" id="connector7pin" y1="9.6816034" y2="9.6816034" x1="0.19414499" stroke-width="0.24107268" x2="5.0354519"/>
+    <rect width="0.01016476" x="0.070285626" y="9.6813622" fill="none" gorn="0.80"  height="0.00048214535" stroke="none" id="connector7terminal"/>
+    <rect width="0.246944" x="4.4562211" y="12.456711" class="terminal" fill="none" gorn="0.81"  height="0.246944" stroke="none" id="rect32"/>
+    <line class="pin" fill="none" gorn="0.82"  stroke="#787878" style="stroke-linecap:round" id="connector0pin" y1="12.221602" y2="12.221602" x1="0.19414499" stroke-width="0.24107268" x2="5.0354519"/>
+    <rect width="0.01016476" x="0.070285626" y="12.221361" fill="none" gorn="0.83"  height="0.00048214535" stroke="none" id="connector0terminal"/>
+    <rect width="0.246944" x="4.4562211" y="9.9167099" class="terminal" fill="none" gorn="0.84"  height="0.246944" stroke="none" id="rect39"/>
+    <line class="pin" fill="none" gorn="0.85"  stroke="#787878" style="stroke-linecap:round" id="connector5pin" y1="7.1442928" y2="7.1442928" x1="4.9567194" stroke-width="0.2409469" x2="0.12047264"/>
+    <rect width="0.010154388" x="0.072883762" y="7.144052" fill="none" gorn="0.86"  height="0.0004818938" stroke="none" id="connector5terminal"/>
+    <line class="pin" fill="none" gorn="0.87"  stroke="#787878" style="stroke-linecap:round" id="connector16pin" y1="24.915138" y2="24.915138" x1="5.0354519" stroke-width="0.24745207" x2="0.19414522"/>
+    <rect width="0.01016476" x="0.070285745" y="24.921362" fill="none" gorn="0.88"  height="0.00048214584" stroke="none" id="connector16terminal"/>
+    <rect width="0.0101648" x="0.070285954" y="24.921362" fill="none" gorn="0.89"  height="0.00048214599" stroke="none" id="connector17terminal"/>
+    <g  transform="matrix(0.98245226,0,0,1,-1.488711,-2.357454)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.90.0.0.0.0"  id="g578">
+                        <g gorn="0.90.0.0.0.0.0"  id="g580">
+                            <g gorn="0.90.0.0.0.0.0.0"  id="g582">
+                                <g gorn="0.90.0.0.0.0.0.0.0"  id="g584">
+                                    <g gorn="0.90.0.0.0.0.0.0.0.0"  id="g586">
+                                        <g gorn="0.90.0.0.0.0.0.0.0.0.0"  id="g588">
+                                            <g gorn="0.90.0.0.0.0.0.0.0.0.0.0"  id="g590">
+                                                <g class="text" fill="#8c8c8c" gorn="0.90.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8" font-size="0.027755">
+                                                    <g gorn="0.90.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.90.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5588">3</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-2.3326211,0.18254608)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.91.0.0.0.0"  id="g595">
+                        <g gorn="0.91.0.0.0.0.0"  id="g597">
+                            <g gorn="0.91.0.0.0.0.0.0"  id="g599">
+                                <g gorn="0.91.0.0.0.0.0.0.0"  id="g601">
+                                    <g gorn="0.91.0.0.0.0.0.0.0.0"  id="g603">
+                                        <g gorn="0.91.0.0.0.0.0.0.0.0.0"  id="g605">
+                                            <g gorn="0.91.0.0.0.0.0.0.0.0.0.0"  id="g607">
+                                                <g class="text" fill="#8c8c8c" gorn="0.91.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-3" font-size="0.027755">
+                                                    <g gorn="0.91.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-4">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.91.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5661">16</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-2.3197503,2.7225462)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.92.0.0.0.0"  id="g612">
+                        <g gorn="0.92.0.0.0.0.0"  id="g614">
+                            <g gorn="0.92.0.0.0.0.0.0"  id="g616">
+                                <g gorn="0.92.0.0.0.0.0.0.0"  id="g618">
+                                    <g gorn="0.92.0.0.0.0.0.0.0.0"  id="g620">
+                                        <g gorn="0.92.0.0.0.0.0.0.0.0.0"  id="g622">
+                                            <g gorn="0.92.0.0.0.0.0.0.0.0.0.0"  id="g624">
+                                                <g class="text" fill="#8c8c8c" gorn="0.92.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-9" font-size="0.027755">
+                                                    <g gorn="0.92.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-7">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.92.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5663">15</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-2.3158889,7.8154172)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.93.0.0.0.0"  id="g629">
+                        <g gorn="0.93.0.0.0.0.0"  id="g631">
+                            <g gorn="0.93.0.0.0.0.0.0"  id="g633">
+                                <g gorn="0.93.0.0.0.0.0.0.0"  id="g635">
+                                    <g gorn="0.93.0.0.0.0.0.0.0.0"  id="g637">
+                                        <g gorn="0.93.0.0.0.0.0.0.0.0.0"  id="g639">
+                                            <g gorn="0.93.0.0.0.0.0.0.0.0.0.0"  id="g641">
+                                                <g class="text" fill="#8c8c8c" gorn="0.93.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-96" font-size="0.027755">
+                                                    <g gorn="0.93.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-3">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.93.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5669">12</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-2.1247564,10.355417)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.94.0.0.0.0"  id="g646">
+                        <g gorn="0.94.0.0.0.0.0"  id="g648">
+                            <g gorn="0.94.0.0.0.0.0.0"  id="g650">
+                                <g gorn="0.94.0.0.0.0.0.0.0"  id="g652">
+                                    <g gorn="0.94.0.0.0.0.0.0.0.0"  id="g654">
+                                        <g gorn="0.94.0.0.0.0.0.0.0.0.0"  id="g656">
+                                            <g gorn="0.94.0.0.0.0.0.0.0.0.0.0"  id="g658">
+                                                <g class="text" fill="#8c8c8c" gorn="0.94.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-98" font-size="0.027755">
+                                                    <g gorn="0.94.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-46">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.94.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5671">11</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1.4463906,0,0,1,-4.1227162,15.435417)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.95.0.0.0.0"  id="g663">
+                        <g gorn="0.95.0.0.0.0.0"  id="g665">
+                            <g gorn="0.95.0.0.0.0.0.0"  id="g667">
+                                <g gorn="0.95.0.0.0.0.0.0.0"  id="g669">
+                                    <g gorn="0.95.0.0.0.0.0.0.0.0"  id="g671">
+                                        <g gorn="0.95.0.0.0.0.0.0.0.0.0"  id="g673">
+                                            <g gorn="0.95.0.0.0.0.0.0.0.0.0.0"  id="g675">
+                                                <g class="text" fill="#8c8c8c" gorn="0.95.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-8" font-size="0.027755">
+                                                    <g gorn="0.95.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-0">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.95.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5673">1</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-1.6408114,17.975417)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.96.0.0.0.0"  id="g680">
+                        <g gorn="0.96.0.0.0.0.0"  id="g682">
+                            <g gorn="0.96.0.0.0.0.0.0"  id="g684">
+                                <g gorn="0.96.0.0.0.0.0.0.0"  id="g686">
+                                    <g gorn="0.96.0.0.0.0.0.0.0.0"  id="g688">
+                                        <g gorn="0.96.0.0.0.0.0.0.0.0.0"  id="g690">
+                                            <g gorn="0.96.0.0.0.0.0.0.0.0.0.0"  id="g692">
+                                                <g class="text" fill="#8c8c8c" gorn="0.96.0.0.0.0.0.0.0.0.0.0.0"  stroke="none" style="text-anchor:start;display:inline;font-family:Droid Sans" id="text3728-8-8-1" font-size="0.027755">
+                                                    <g gorn="0.96.0.0.0.0.0.0.0.0.0.0.0.0"  style="font-size:1.31797779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'" id="tspan5352-75-7-4-5">
+                                                        <text x="5.6444445" y="9.1016674" gorn="0.96.0.0.0.0.0.0.0.0.0.0.0.0.0"  id="tspan5675">4</text>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
